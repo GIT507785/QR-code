@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import HeartQR from "./components/HeartQR"
-// import LovePage from "./pages/Lovepage"
+import HeartQR from "./Components/HeartQR"
+import React from "react"
 
 export default function App(){
 
